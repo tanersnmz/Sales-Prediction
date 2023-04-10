@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" height="250" src="https://i.hizliresim.com/nhzvzd9.jpeg">
+  <img width="600" height="450" src="https://i.hizliresim.com/nhzvzd9.jpeg">
 </p>
 
 
